@@ -1,6 +1,7 @@
 # Posters on CODECHECK
 
-- [deRSE23 conference](https://de-rse23.sciencesconf.org/) (Daniel), abstract submitted
+- [deRSE23 conference](https://de-rse23.sciencesconf.org/) (Daniel), presented and published at <https://doi.org/10.5281/zenodo.7642836>
+
 ## How to add a poster
 
 - Create a directory `YYYY-MM_EVENT`
